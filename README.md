@@ -7,4 +7,21 @@ Since July 2010, the Health Department has required restaurants to implement let
 
 ## DB_source
 
-* https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
+- https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
+
+## Exploratory Data Analysis
+
+- Analysis of Grade variable
+  - Relationship between Grade and Borough
+  - Relationship between Grade and Cuisine Type
+  - Relationship between Grade and Critical Flag
+  - Change of percentage of Grade over time from 2014 to 2017
+  - Relationship between Grade and Score
+- Analysis of Score variable
+  - Relationship between Score and Borough
+  - Relationship between Score and Cuisine Type
+  - Heatmap of Average Score for different Borough and Cuisine Type
+  - Visulation of Zipcode Map for Average Score
+  - Change of Average Score over time
+
+## Executive Summary
