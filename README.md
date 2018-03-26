@@ -24,4 +24,4 @@ Since July 2010, the Health Department has required restaurants to implement let
   - Visulation of Zipcode Map for Average Score
   - Change of Average Score over time
 
-## Executive Summary
+## 
